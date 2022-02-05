@@ -5,3 +5,7 @@ When I was testing and tuning my first CNC I realized that even tiny mistake, ma
 
 I used my hull current sensor to get readings from/on the spindle , couple of relays to start/stop the spindle and emulate button pushing and ESP32 based Lilygo T4 with TFT display and couple of buttons to control it all. I am shure that there more elegant ways to get this idea working, but I had to go out with what I got lying around my workshop.
 
+Parts list:
+  * [LilyGO TTGO T-4 ESP32 2.2 TFT ](https://www.laskakit.cz/lilygo-ttgo-t-4-esp32-2-2-tft-psarm-8m-ip5306--vyvojova-deska/)
+  * [2 channel relay module](https://www.laskakit.cz/2-kanaly-rele-modul--5vdc-250vac-10a/) or 2x [single canal relay module](https://www.laskakit.cz/1-kanal-5v-rele-modul--low-level--250vac-10a/)
+  * [hall effect current sensor](https://www.laskakit.cz/arduino-proudovy-senzor-20a-acs712/)
