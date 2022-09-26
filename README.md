@@ -13,3 +13,5 @@ I used my hull current sensor to get readings from/on the spindle , couple of re
 
 ## Wiring:
 Current sensor goes to ESPs pin 35 Spindle operating relay to pin 19 and pause button emulating relay to pin 24.  
+
+Made by [Hodinový Maker](http://www.hodinovy-maker.cz)
